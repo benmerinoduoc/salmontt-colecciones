@@ -1,0 +1,5 @@
+IslaHuar;Calbuco;1200
+ChaitenSur;Chaiten;800
+QuellonNorte;Quellon;1500
+AysenFjord;Aysen;950
+AncudCentro;Ancud;1300
