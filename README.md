@@ -1,6 +1,6 @@
 ![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
 
-# 🧠 Evaluación Formativa IV – Desarrollo Orientado a Objetos I
+# 🧠 Evaluación Formativa III – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
 - Nombre completo: Benjamin Alejandro Merino Pinto
@@ -11,7 +11,7 @@
 ---
 
 ## 📘 Descripción general del sistema
-Este proyecto corresponde a la Evaluación Formativa IV de la asignatura Desarrollo Orientado a Objetos I. Se trata de un sistema desarrollado en Java cuyo objetivo es cargar información desde un archivo externo, convertir esos datos en objetos y administrarlos mediante una lista ArrayList.
+Este proyecto corresponde a la Evaluación Formativa III de la asignatura Desarrollo Orientado a Objetos I. Se trata de un sistema desarrollado en Java cuyo objetivo es cargar información desde un archivo externo, convertir esos datos en objetos y administrarlos mediante una lista ArrayList.
 
 El proyecto fue desarrollado a partir de un caso contextualizado de la empresa salmonera Salmontt, abordando una necesidad real: identificar los centros de cultivo con mayor producción. Para esto, se implementó una solución sencilla y organizada, que permite leer los datos, almacenarlos y filtrarlos de manera clara.
 
@@ -54,4 +54,4 @@ git clone https://github.com/benmerinoduoc/salmontt-colecciones.git
 
 ---
 
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Formativa IV
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Formativa III
